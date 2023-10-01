@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "2008" alt="TNT">
+	<img src="[https://avatars.githubusercontent.com/u/79617804](https://f8-zpcloud.zdn.vn/343851440405838405/a00dd8d43cb2e6ecbfa3.jpg)" width = "2008" alt="TNT">
 	</a>
 </p>
 
